@@ -12,7 +12,6 @@
 - [The "Life of a Packet"](#-the-life-of-a-packet)
 - [Key Features & Innovations](#-key-features--innovations)
 - [Advanced Features](#-advanced-features)
-- [Getting Started](#-getting-started)
 
 ---
 
